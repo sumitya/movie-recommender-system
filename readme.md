@@ -25,3 +25,11 @@ it scan a specific & subpackages.
 `@ComponentScan`, which directs Spring to search for components in the path specified
 
 ![img.png](src/main/resources/static/chapter3_springboot.png)
+
+# Chapter 5
+
+![img.png](src/main/resources/static/chapter5_qualifier.png)
+
+`@Qualifier` annotation takes precedence over the `@Primary` annotation. To show this, let’s add the @Primary annotation.
+
+![img.png](src/main/resources/static/chapter5_primary.png)

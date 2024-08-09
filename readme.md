@@ -33,3 +33,6 @@ it scan a specific & subpackages.
 `@Qualifier` annotation takes precedence over the `@Primary` annotation. To show this, let’s add the @Primary annotation.
 
 ![img.png](src/main/resources/static/chapter5_primary.png)
+
+If there is no `@Qualifier` specified on Components, but there is a `@Primary` mention, 
+Component with `@Primary` will be injected as dependency.

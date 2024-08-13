@@ -45,3 +45,11 @@ The singleton and prototype scopes can be used in any application while the last
 ![img.png](src/main/resources/static/lesson7_singleton_bean.png)
 
 ![img.png](src/main/resources/static/lesson7_prototype_bean.png)
+
+# Chapter 8
+Mixing singleton and prototype Beans
+![img.png](src/main/resources/static/lesson8_singleton_bean.png)
+
+![img.png](src/main/resources/static/lesson8_prototype_bean.png)
+
+![img.png](src/main/resources/static/lesson8_proxy_bean.png)
